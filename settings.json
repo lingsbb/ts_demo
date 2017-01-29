@@ -1,0 +1,10 @@
+{
+    // "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.tsdk": "C:\\Users\\eyt\\AppData\\Roaming\\npm\\node_modules\\typescript\\lib",
+    "vsicons.presets.angular": false,
+    "files.exclude": {
+        "node_modules": true,
+        "**/*.js": { "when": "$(basename).ts" },
+        "**/*.js.map": true
+    }
+}
